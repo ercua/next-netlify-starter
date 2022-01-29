@@ -16,7 +16,10 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
-
+    <div>
+      <h1 class='title_main'>New Pags v2</h1>
+    lorm
+    </div>
       <Footer />
     </div>
   )
